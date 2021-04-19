@@ -16,7 +16,7 @@ h1 {
   font-size: 3rem;
   color: aliceblue;
   font-weight: bolder;
-  text-shadow: 2px 2px black;
+  text-shadow: 2px 1px black;
 }
 
 .calculator-grid {
